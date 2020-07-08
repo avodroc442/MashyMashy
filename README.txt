@@ -7,7 +7,7 @@ You can support me by saying thank you on Discord (Avodroc#1899) or Following my
 
 To Build Rom:
 Mac:
-./nesasm MashyMashy_Adjudicator.asm
+./nesasm MashyMashy_Adjudicator_Ver1.asm
 
 Windows
-./NESASM3.exe MashyMashy_Adjudicator.asm
+./NESASM3.exe MashyMashy_Adjudicator_Ver1.asm
